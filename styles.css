@@ -1,0 +1,64 @@
+body{
+    font-family: 'Lato','Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #2c2c2c;
+    background-color: #ffdf9f;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Playfair Display', 'Georgia', serif;
+    font-size: 52px;
+    color: hsla(60, 23%, 10%, 0.877);
+}
+
+.Super{
+    display: flex;
+    width: auto;
+    height: auto;
+    margin-top: 80px;
+    margin-left: 320px;
+}
+
+.one.two.three{
+    display: inline-block;
+}
+
+.one{
+    padding: 8px;
+}
+
+.two{
+    padding: 8px;
+    padding-left: 60px;
+
+}
+
+.three{
+    padding: 8px;
+    padding-left: 60px;
+}
+
+.twozero{
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+}
+
+.twoone{
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+
+}
+
+.twotwo{
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+
+}
+
+a{
+    color: #e74c3c;
+}
